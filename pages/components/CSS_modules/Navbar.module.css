@@ -1,0 +1,17 @@
+.navbar {
+    background-color: rgb(65, 65, 65);
+}
+
+.ul li {
+    padding: 50px;
+}
+
+.ul li:hover {
+    background-color: rgb(46, 46, 46);
+}
+
+.ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
