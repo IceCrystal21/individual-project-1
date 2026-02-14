@@ -1,0 +1,25 @@
+.form {
+    background-color: rgb(188, 187, 187);
+    display: flex;
+    flex-direction: column;
+}
+
+.form input {
+    padding: 10px;
+    width: 40%;
+    margin: 10px auto;
+    background-color: rgb(131, 131, 131);
+
+}
+
+.form label {
+    color: black;
+    margin: 10px auto;
+}
+
+.form button {
+    background-color: rgb(131, 131, 131);
+    width: 20%;
+    padding: 10px;
+    margin: 10px auto;
+}
